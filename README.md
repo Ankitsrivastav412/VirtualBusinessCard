@@ -22,6 +22,6 @@ aws-sdk -to generate public link to store in our database;
 
 In this Project  we have to Make Model i.e (BusinessCardModel) in which we define Our Schema.
 
-Afterthat In controller we write the Logics & for Validation we create another folder and important in Controller.
+Afterthat In controller we write the Logics & for Validation we create another folder and import in Controller.
 and then we write our Api in route file.
 After that we test our Api's which we have Built.
